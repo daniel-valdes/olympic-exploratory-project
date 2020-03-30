@@ -2,6 +2,8 @@
 An exploratory descriptive project on the history of the olympics \
 Peter Sheldon, Thomas Byrne, Daniel Valdes, Jack Bitcon
 
+![Olympics](https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg)
+
 **Dataset**: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results#athlete_events.csv
 
 **Introduction**:
